@@ -1,3 +1,3 @@
 # ride-bayou
 
-create db 'u851300895_fras'. See script
+create databas 'u851300895_fras'. See script
